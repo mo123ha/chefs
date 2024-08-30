@@ -1,0 +1,30 @@
+@media  screen and (min-width:560px) {
+    .container{
+        width: 90%;
+    }
+   
+    .contant-image{
+        width: 50%;
+    }
+    
+}
+@media  screen and (min-width:800px) {
+    .container{
+        width: 85%;
+    }
+    
+    .contant-image{
+        width: 33%;
+    }
+    
+}
+@media  screen and (min-width:900px) {
+    .container{
+        width: 80%;
+    }
+    
+    .contant-image{
+        width: 25%;
+    }
+    
+}

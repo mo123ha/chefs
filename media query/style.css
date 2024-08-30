@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.parent{
+    background-color: tomato;
+}
+.container{
+    width: 95%;
+    margin: auto;
+}
+
+.contant-image{
+    width: 100%;
+    float: left;
+}
+.parent img{
+    width: 100%;
+}
